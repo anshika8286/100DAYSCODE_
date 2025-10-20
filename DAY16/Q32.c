@@ -5,7 +5,6 @@ int main() {
     printf("Enter a number: ");
     scanf("%d", &num);
     o = num;
-
     while (num > 0) {
         dt = num % 10;
         rev = rev * 10 + digit;
