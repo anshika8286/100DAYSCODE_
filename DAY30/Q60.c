@@ -1,4 +1,4 @@
-//Q59: Count even and odd numbers in an array.
+//Q60: Count positive, negative, and zero elements in an array.
 #include <stdio.h>
 int main() {
     int n, i, arr[100];
